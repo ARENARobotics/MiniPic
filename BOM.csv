@@ -1,0 +1,25 @@
+Part Name,Supplier,Link,Notes,Quantity
+Pen Body,JLC,https://jlc3dp.com/3d-printing-quote,Use STEP files from Github,1
+Pen Grip,Amazon,https://www.amazon.com/uxcell-Silicone-Flexible-Silicon-Transfer/dp/B07PNR73WW/,,1
+"18g, 21g, 23g Needles",Amazon,https://www.amazon.com/Waltool-Dispensing-Assortment-Stainless-Applicator/dp/B0FK4SYRQT/,,1
+18g Metal Needles,Amazon,https://www.amazon.com/Pack-Blunt-Dispensing-Needles-8G-18G/dp/B07QS6TR4G/,,1
+Suction Cup 3mm,AliExpress,https://www.aliexpress.us/item/2251832630050891.html,,1
+Suction Cup 5mm,AliExpress,https://www.aliexpress.us/item/2251832630050891.html,,1
+Suction Cup 10mm,AliExpress,https://www.aliexpress.us/item/2251832630050891.html,,1
+Silicone Tube,AliExpress,https://www.aliexpress.us/item/3256811498681916.html,,1
+Aux Cable,AliExpress,https://www.aliexpress.us/item/3256812323425938.html,,1
+Hinge,JLC,https://jlcmc.com/product/s/D04/DJRG/spring-butterfly-binge-taper-hole?k=DJRG-25&productModelNumber=DJRG-25,,1
+Vacuum Pump,AliExpress,https://www.adafruit.com/product/4699,,1
+Solenoid valve,Adafruit,https://www.adafruit.com/product/4663,,1
+Main PCB,JLC,https://jlcpcb.com/,Use Gerber file from Github,1
+Back Panel,JLC,https://jlcpcb.com/,Use Gerber file from Github,1
+Front Panel,JLC,https://jlcpcb.com/,Use Gerber file from Github,1
+Power Switch,Digikey,https://www.digikey.com/en/products/detail/e-switch/RA11131121/2720267,,1
+Rubber Feet,Digikey,https://www.digikey.com/en/products/detail/keystone-electronics/720/61956,,8
+Screws,JLC,https://www.amazon.com/Phillips-Tapping-Screws-Stainless-Steel/dp/B0825N1L3Z/,,39
+Vibration dampaning,JLC,https://jlcmc.com/product/s/H02/HJDQ/cushioning-strip?k=HJDQ-P43-T3-B30-L1000&productModelNumber=HJDQ-P43-T3-B30-L1000,,1
+Electrical Components,Digikey,Custom,Can be found in KiCAD files,1
+Spring,JLC,https://jlcmc.com/product/s/A04/ATJS/compression-springs-outer-diameter-reference-l%C3%97(35~40)?k=ATJS-D4-L15&productModelNumber=ATJS-D4-L15,,1
+Keyswitch,Amazon,https://www.amazon.com/GATERON-Switches-Pre-lubed-Mechanical-Keyboard/dp/B0DRF928W5,,1
+Keyswitch Socket,Adafruit,https://www.adafruit.com/product/4958,,1
+Filter,AliExpress,https://www.aliexpress.us/item/3256812076290057.html?spm=a2g0o.order_list.order_list_main.5.4fd11802I4fYEi&gatewayAdapt=glo2usa,,1
