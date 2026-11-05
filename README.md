@@ -27,7 +27,7 @@ Open-source vacuum tweezers built for repairability. Engineered for SMD solderin
 
 ### Documentation & Source Files
 
-* **[Assembly Manual](./docs/ASSEMBLY_MANUAL.pdf)** - Step-by-step kit assembly Instructions & quickstart guide
+* **[Assembly Manual](https://arenarobotics.github.io/MiniPic/)** - Step-by-step kit assembly Instructions & quickstart guide
 * **[BOM](./BOM.csv)** - Bill of materials including reference links for purchase
 * **[Electronics Source](./electronics)** - KiCAD projects for PCBs
 * **[CAD Exports](./cad/exports)** - CAD export files (step)
