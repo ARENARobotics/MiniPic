@@ -6,7 +6,7 @@
 [![Preorder DIY Kit ($90)](https://img.shields.io/badge/Preorder_DIY_Kit_($90)-0000FF?style=for-the-badge&logo=shopify&logoColor=white)](https://arenarobotics.store/products/minipic?variant=54529778122965&utm_source=github&utm_medium=readme&utm_campaign=minipic_repo&utm_content=kit_badge)
 [![CERN-OHL-S-v2](https://img.shields.io/badge/License-CERN--OHL--S--v2-orange?style=for-the-badge)](LICENSE.md)
 
-View full specs, photos, and videos: [MiniPic Product Page](https://arenarobotics.store/products/minipic?utm_source=github&utm_medium=readme&utm_campaign=minipic_repo&utm_content=top_product_link).
+View full specs, photos, and videos: [MiniPic Product Page](https://arenarobotics.store?utm_source=github&utm_medium=readme&utm_campaign=minipic_repo&utm_content=top_product_link).
 
 Open-source vacuum tweezers built for repairability. Engineered for SMD soldering and precision rework, with a robust design adaptable to any application requiring controlled suction and handling of small parts.
 
